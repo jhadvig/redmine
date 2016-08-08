@@ -14,6 +14,8 @@ gem "protected_attributes"
 gem "actionpack-xml_parser"
 gem "roadie-rails"
 gem "mimemagic"
+gem 'puma'
+# gem 'htmlentities', "~> 4.3.4"
 
 # Request at least nokogiri 1.6.7.2 because of security advisories
 gem "nokogiri", ">= 1.6.7.2"
